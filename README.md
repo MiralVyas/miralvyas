@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey 👋, I'm Miral Vyas! 
 
-<!--
-**MiralVyas/miralvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer with a passion for crafting engaging web experiences.
 
-Here are some ideas to get you started:
+💻 Proficient in ReactJS, JavaScript, TypeScript, HTML/CSS, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Skilled in building responsive and accessible web applications.
+
+📚 Always learning and staying updated with the latest tech trends.
+
+💬 Let's connect and collaborate on exciting projects!
+
+📫 Reach out to me at miral.vyas.corp@gmail.com or via [LinkedIn](https://www.linkedin.com/in/miral-vyas/
+).
+
+⚡ Fun fact: I love experimenting with new recipes in my spare time!
+
+Looking forward to connecting with you! 😄
